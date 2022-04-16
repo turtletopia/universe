@@ -1,0 +1,14 @@
+[
+  {
+    "package":"deepdep",
+    "url":"https://github.com/DominikRafacz/deepdep"
+  },
+  {
+    "package":"versionsort",
+    "url":"https://github.com/ErdaradunGaztea/versionsort"
+  },
+  {
+    "package": "woodendesc",
+    "url": "https://github.com/ErdaradunGaztea/woodendesc"
+  }
+]
