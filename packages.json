@@ -10,5 +10,9 @@
   {
     "package": "woodendesc",
     "url": "https://github.com/turtletopia/woodendesc"
+  },
+  {
+    "package": "ggpizza",
+    "url": "https://github.com/turtletopia/ggpizza"
   }
 ]
