@@ -1,7 +1,23 @@
 [
   {
+    "package": "aurrera",
+    "url": "https://github.com/turtletopia/aurrera"
+  },
+  {
     "package":"deepdep",
     "url":"https://github.com/DominikRafacz/deepdep"
+  },
+  {
+    "package": "gglgbtq",
+    "url": "https://github.com/turtletopia/gglgbtq"
+  },
+  {
+    "package": "ggpizza",
+    "url": "https://github.com/turtletopia/ggpizza"
+  },
+  {
+    "package": "openaccess",
+    "url": "https://github.com/turtletopia/openaccess"
   },
   {
     "package":"versionsort",
